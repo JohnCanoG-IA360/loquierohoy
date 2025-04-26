@@ -1,2 +1,3 @@
-# loquierohoy
-Web de loquierohoy.online  los mejores productos que sieipre haz deseado, lo viste, lo quieres, lo tienes hoy
+# Lo Quiero Hoy Online
+Este repositorio contiene la configuración de mi sitio web loquierohoy.online.
+Aquí encontrarás los archivos necesarios para alojarlo en GitHub Pages.
